@@ -1,0 +1,3 @@
+[submodule "fpnew"]
+	path = fpnew
+	url = git@github.com:openhwgroup/cvfpu.git
